@@ -1,0 +1,29 @@
+
+#Personal
+{
+	color: green;
+	position: absolute;
+	left:350px;
+	top:20px;
+}
+
+#EduQ
+{
+	position: absolute;
+	left: 670px;
+	top: 20px;
+}
+
+#Engineering
+{
+	position: absolute;
+	left: 670px;
+	top: 60px;
+}
+
+#Business
+{
+	position: absolute;
+	left: 670px;
+	top: 250px;
+}
