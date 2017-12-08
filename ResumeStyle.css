@@ -1,7 +1,12 @@
 
+#image
+{
+	border: 3px;
+	border-style: solid;
+}
+
 #Personal
 {
-	color: green;
 	position: absolute;
 	left:350px;
 	top:20px;
@@ -25,5 +30,57 @@
 {
 	position: absolute;
 	left: 670px;
-	top: 250px;
+	top: 230px;
+}
+
+
+/*Language Skills*/
+#Lang
+{
+	position: absolute;
+	left:680px;
+	top:500px;
+}
+
+/*IT Skills*/
+#IT
+{
+	position: absolute;
+	left:680px;
+	top:660px;
+}
+
+/*Experience*/
+#iOSApp
+{
+	position: absolute;
+	left: 480px;
+	top: 1200px;
+
+	border: 3px dotted;
+}
+
+/*Projects*/
+
+#iOSPro
+{
+	/*position: absolute;
+	left: 50px;
+	down: 1200px;*/
+	position:relative;
+	right:auto;
+	border: 3px dotted;
+}
+
+/*Reference*/
+#refone
+{
+	position: absolute;
+}
+
+#reftwo
+{
+	position: absolute;
+	left: 400px;
+
 }
