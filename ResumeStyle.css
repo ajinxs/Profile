@@ -45,6 +45,7 @@
 	position: absolute;
 	left:680px;
 	top:490px;
+    
 }
 
 /*IT Skills*/
@@ -104,5 +105,11 @@
 {
 	position: absolute;
 	left: 400px;
-
 }
+
+/*all the heading are here*/
+#EngHead, #BusHead, #EduQ, #WorkAustra, #WorkThai, #LangSkill, #ItSkill, #Projects, #Reff{
+    color:chartreuse;
+}
+
+

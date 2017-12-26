@@ -1,6 +1,8 @@
 
-
 $(document).ready(function(){
-  alert("Hello Jquery");
+  $("#Personal").click(function(){
+      $("h1").fadeToggle();
+      $("p").fadeToggle();
+  });
 
 });
