@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+        <!--Meta data for spriders and search engines-->
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-
+        
+        <!--Additional data about the author of this webpage-->
 		<meta name="author" content="Ajinkya Joshi">
 		<meta name="description" content="This is the online resume created using html,css,javascript and jQuery.">
-
+        
+        <!--Here are all the links to css and javascript-->
 		<link rel="stylesheet" type="text/css" href="ResumeStyle.css">
 		<link type="text/javascript" href="ResumeJs.js">
 		<script type="text/javascript" src="ResumeJs.js"></script>
@@ -16,13 +19,13 @@
 
 <body>
 
-	<img src="Ajink.jpg" alt="Profile_Pic" width="300" height="400" id="image1"/>
-    <img src="controller.png" alt="controler" id="image2"/>
+	<img src="Ajink.jpg" alt="Profile_Pic" width="300" height="400" id="imagephoto"/>
+    <img src="controller.png" alt="controler" id="imagecontroller"/>
 
 	<div id="Personal">
 		<h1>Ajinkya Joshi</h1>
-		<p>
-			Email Address			:   leeajink@gmail.com
+		<p id="gmail">
+			<image src="Gmail.png" alt="gmail" width="100" height="100" onclick="Mail()"/>
 		</p>
 	</div>
 
@@ -44,8 +47,8 @@
 						2014 - 	Certificate in Basic Physics
 						Swinburne University of Technology
 					</li><br>
-			</ul>
-	</div>
+			     </ul>
+	   </div>
 
 	<div id="Business">
 		<h3 id="BusHead">Business Administration</h3>
@@ -72,10 +75,10 @@
 					2003 – 2005, College of Central London, England.
 					National Diploma in Business Administration (ND)
 				</li><br>
-		</ul>
+		  </ul>
 	</div>
 
-	<div id="WorkAus"><br><br> <br><br><br><br>
+	<div id="WorkAus"><br><br><br><br><br>
 		<h2 id="WorkAustra">WORKING EXPERIENCE IN AUSTRALIA</h2>
 
 		<h3>Open Informatics Pty Ltd</h3>
@@ -187,8 +190,7 @@
 	</div>
 </div>
 
-	<div id="Lang">
-		<br>
+	<div id="Lang"><br>
 		<h2 id="LangSkill">LANGUAGE SKILLS</h2>
         
         <image src="English.png" alt="English" width="100" height="80"/>&nbsp;

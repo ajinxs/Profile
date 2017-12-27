@@ -1,15 +1,15 @@
 
-#image1
+#imagephoto
 {
 	border: 3px;
 	border-style: solid;
 }
 
-#image2
+#imagecontroller
 {
     position: absolute;
     left:370px;
-    top:200px;
+    top:250px;
 }
 
 /*
@@ -59,8 +59,7 @@
 {
 	position: absolute;
 	left:680px;
-	top:490px;
-    
+	top:490px;  
 }
 
 /*IT Skills*/
@@ -83,7 +82,6 @@
 }
 
 /*Projects*/
-
 #iOSPro
 {
 	/*position: absolute;
@@ -96,13 +94,13 @@
     border-color: red;
 }
 
-/*Work in Thailand*/
 
+/*Work in Thailand*/
 #Laguna
 {
 	position:absolute;
 	left: 700px;
-	top: 1485px;
+	top: 1487px;
 }
 
 #Summer
@@ -126,8 +124,10 @@
 }
 
 /*all the heading are here*/
-#EngHead, #BusHead, #EduQ, #WorkAustra, #WorkThai, #LangSkill, #ItSkill, #Projects, #Reff{
-    color:chartreuse;
+#EngHead, #BusHead, #EduQ, #WorkAustra, #WorkThai, #LangSkill, #ItSkill, #Projects, #Reff
+{
+    color:#4682B4;
 }
+
 
 
