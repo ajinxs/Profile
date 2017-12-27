@@ -1,9 +1,24 @@
 
-#image
+#image1
 {
 	border: 3px;
 	border-style: solid;
 }
+
+#image2
+{
+    position: absolute;
+    left:370px;
+    top:200px;
+}
+
+/*
+#image3
+{
+    position: absolute;
+    left:370px;
+    top:200px;
+}*/
 
 #Personal
 {
@@ -53,7 +68,7 @@
 {
 	position: absolute;
 	left:680px;
-	top:750px;
+	top:650px; /*750*/
 }
 
 /*Experience*/
