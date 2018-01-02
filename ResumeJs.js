@@ -5,6 +5,11 @@ function Mail(){
     document.getElementById('gmail').innerHTML='leeajink@gmail.com';    
 }
 
+function Git()
+{
+    document.getElementById('gmail').innerHTML='GitHub ID - ajinxs';
+}
+
 //Project will show the description of the AppWatch Project
 function Project(){
     document.getElementById('iOSApp').innerHTML = '<h3>Inventory Checking iOS (Watch) App Project</h3>The team had a task to develop application on Watch (iOS). The client vision was able to check items status,check inventory and add items to the inventory. The team was made of 6 individuals out which 4 were developers and 2 were business analysts. There was already some code available on which the team build and did the testing before launching. The resources was provided by the Thoughts Work. The tools and technology stack used were Javascript, CSS, Git. The project assessment took place on weekly contribution and meeting';
