@@ -1,12 +1,10 @@
 
 //Gmail Function will show email address
 function Mail(){
-    
     document.getElementById('gmail').innerHTML='leeajink@gmail.com';    
 }
 
-function Git()
-{
+function Git(){
     document.getElementById('gmail').innerHTML='GitHub ID - ajinxs';
 }
 
