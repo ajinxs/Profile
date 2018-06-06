@@ -129,6 +129,12 @@
 	left: 550px;
 }
 
+#reffour
+{
+	position: absolute;
+	left: 885px;
+}
+
 
 /*all the heading are here*/
 #EngHead, #BusHead, #EduQ, #WorkAustra, #WorkThai, #LangSkill, #ItSkill, #Projects, #Reff
