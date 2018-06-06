@@ -120,8 +120,15 @@
 #reftwo
 {
 	position: absolute;
-	left: 400px;
+	left: 300px;
 }
+
+#refthree
+{
+	position: absolute;
+	left: 550px;
+}
+
 
 /*all the heading are here*/
 #EngHead, #BusHead, #EduQ, #WorkAustra, #WorkThai, #LangSkill, #ItSkill, #Projects, #Reff
